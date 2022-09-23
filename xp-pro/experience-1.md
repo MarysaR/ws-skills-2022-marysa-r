@@ -1,12 +1,14 @@
-# Période en entreprise du 23/11/2020 au 11/12/2020
+# Période en entreprise du 05/09/2022 au 06/09/2023
 
 > Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
 
 ## Intégration
 
 1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
+Oui, il s'agit de mon premier poste en entreprise. 
 
 2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
+La communication est précise, directe. Mon tuteur, ayant été jury à la Wild Code School apporte une bonne présence ainsi que de bonnes explications en cas de besoin. 
 
 3. Décris ta mission actuelle au sein de l'entreprise
 
