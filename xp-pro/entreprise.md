@@ -2,7 +2,7 @@
 
 ## L'activité principale
 
-> développement sur-mesure logiciel, mobile et électronique (Industrie 4.0)
+> Développement sur-mesure logiciel, mobile et électronique (IoT, Parcours connectés, Réalité Augmentée) (Industrie 4.0)
 
 ## Ton équipe
 
