@@ -1,10 +1,11 @@
-# Le nom de l'entreprise
+# RENTCOM TECHNOLOGIES
 
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+> développement sur-mesure logiciel, mobile et électronique (Industrie 4.0)
 
 ## Ton équipe
 
-> Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
-
+> Nous sommes 6 personnes, divisées en deux pôles dont 3 personnes par pôle : 
+> - Pôle Commercial 
+> - Pôle Développement
